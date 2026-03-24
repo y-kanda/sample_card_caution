@@ -245,14 +245,14 @@ ul {
 
 /* 入会 */
 .bg_appli {
-    background-image: url(/img/2bg_appli.png);
+    background-image: url(../img/2bg_appli.png);
     background-size: cover;
     background-repeat: repeat;
 }
 
 /* 更新 */
 .bg_update {
-    background-image: url(/img/3bg_update.png);
+    background-image: url(../img/3bg_update.png);
     background-size: cover;
     background-repeat: repeat;
     padding-bottom: 3%;
@@ -301,7 +301,7 @@ ul {
 .point_border {
     border-width: 10px;
     border-style: solid;
-    border-image: url(/img/4point_6border.png) 15;
+    border-image: url(../img/4point_6border.png) 15;
     border-image-repeat: stretch;
     margin: -0.2% 1% 3% 1%;
 }
@@ -357,7 +357,7 @@ ul {
     background-size: contain;
     margin-right: 0.2em;
     /*画像の幅に対する高さ比率*/
-    background: url(/img2/tel_mark.png) no-repeat;
+    background: url(../img2/tel_mark.png) no-repeat;
     background-size: contain;
     margin-right: 1%;
 }
